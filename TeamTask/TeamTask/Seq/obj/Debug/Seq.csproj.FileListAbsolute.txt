@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Программирование\C#\TeamTask\Seq\bin\Debug\Seq.dll
+C:\Users\User\Documents\Программирование\C#\TeamTask\Seq\bin\Debug\Seq.pdb
+C:\Users\User\Documents\Программирование\C#\TeamTask\Seq\obj\Debug\Seq.csprojAssemblyReference.cache
+C:\Users\User\Documents\Программирование\C#\TeamTask\Seq\obj\Debug\Seq.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Программирование\C#\TeamTask\Seq\obj\Debug\Seq.dll
+C:\Users\User\Documents\Программирование\C#\TeamTask\Seq\obj\Debug\Seq.pdb
+C:\Users\Кирилл\Desktop\TeamTask\TeamTask\Seq\bin\Debug\Seq.dll
+C:\Users\Кирилл\Desktop\TeamTask\TeamTask\Seq\bin\Debug\Seq.pdb
+C:\Users\Кирилл\Desktop\TeamTask\TeamTask\Seq\obj\Debug\Seq.csprojAssemblyReference.cache
+C:\Users\Кирилл\Desktop\TeamTask\TeamTask\Seq\obj\Debug\Seq.dll
+C:\Users\Кирилл\Desktop\TeamTask\TeamTask\Seq\obj\Debug\Seq.pdb
